@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MinaStore</string>
+    <string name="string_refresh_up_pull_more">上拉加载更多</string>
+    <string name="string_refresh_loading">加载中...</string>
+    <string name="string_refresh_down_pull_more">放开加载更多</string>
+    <string name="string_refresh_down_to_fresh">下拉以刷新</string>
+</resources>
